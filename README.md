@@ -1,0 +1,2 @@
+# StrypesStudent
+Education
